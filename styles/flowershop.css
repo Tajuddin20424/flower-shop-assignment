@@ -1,0 +1,22 @@
+/* container-one */
+.container-one {
+    display: flex;
+    position: absolute; 
+    background-color: #e554733a;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.paragraph {
+    font-size: 18px;
+    font-weight: 200;
+    
+}
+
+.btn {
+    background-color: #E55473;
+    border-radius: 8px;
+    color: white;
+    padding: 20px 43px 20px 43px;
+
+}
