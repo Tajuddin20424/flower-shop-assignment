@@ -24,45 +24,110 @@
     border: none;
 
 }
-#cone-img img{
+
+#cone-img img {
     height: 500px;
 }
-#cone-img{
+
+#cone-img {
     height: 500px;
     margin: 0px;
 }
+
 /* container one end */
 
 /* container two start */
-.conaitner-two{
+.container-two {
     align-items: center;
     text-align: center;
-    display: flex ;
+    display: flex;
     flex-direction: column;
     gap: 50px;
     margin: 0px;
 }
-.cart-image{
+
+.cart-image {
     display: flex;
     gap: 30px;
 }
-.cart-image img{
+
+.cart-image img {
     height: 428px;
     width: 310px;
 }
-.cart-one{
+
+.cart-one {
     background-color: rgba(167, 33, 98, 0.15);
     padding: 90px 30px 0px 30px;
     border-radius: 100px 100px 0px 0px;
 }
-.cart-two{
+
+.cart-two {
     background-color: rgba(5, 151, 160, 0.15);
     padding: 90px 30px 0px 30px;
     border-radius: 100px 100px 0px 0px;
 }
-.cart-three{
+
+.cart-three {
     background-color: rgba(71, 125, 17, 0.15);
     padding: 90px 30px 0px 30px;
     border-radius: 100px 100px 0px 0px;
 }
+
+/* .paragraph {
+    display: flex;
+
+} */
+
 /* container two end */
+
+/* container three start */
+
+.container-three {
+    display: flex;
+    gap: 100px;
+    padding: 90px 30px 0px 30px;
+    background-color:  rgba(39, 39, 39, 0.05);
+    align-items: center;
+
+}
+    
+/* container three end */
+
+/* container four start */
+
+.container-four{
+    display: flex;
+    background-color: rgba(229, 84, 115, 0.05);
+}
+
+
+/* container four end */
+
+/* container five start */
+.container-five{
+    display: flex;
+}
+
+/* container five end */
+
+/* container six start */
+.container-six{
+    background-image: url('Flower Asset/Rectangle 9.png');
+}
+/* container six end */
+
+/* container seven start */
+
+.container-seven{
+    text-align: center;
+    background-color: black;
+}
+.fnt-clr{
+    color: rgb(229, 84, 115);
+}
+.text-clr{
+    color: white;
+}
+
+/* container seven end */
