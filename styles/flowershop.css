@@ -9,6 +9,10 @@
     font-size: 30px;
     font-weight: 700;
     padding: 0px 30px;
+    height: 500px;
+    width: 1548px;
+
+
 }
 
 .paragraph {
@@ -26,13 +30,22 @@
 
 }
 
-#cone-img img {
-    height: 500px;
+.con-part-one {
+    height: 506px;
+    width: 800px;
+   
+}
+.cone-img{
+    height: 504px;
+    width: 635px;
+    text-align: right;
+    
+
 }
 
-#cone-img {
-    height: 500px;
-    margin: 0px;
+
+.cone-img img {
+    height: 500px;   
 }
 
 /* container one end */
@@ -43,8 +56,6 @@
     text-align: center;
     display: flex;
     flex-direction: column;
-    /* gap: 5px; */
-    /* margin: 0px; */
 
 }
 
@@ -83,17 +94,6 @@
     gap: 300px;
     text-decoration: underline;
 }
-
-/* .flr-text {
-    display: flex;
-    gap: 355px;
-    padding: 30px 30px;
-    flex-direction: row;
-    text-align: center;
-    align-items: center;
-
-
-} */
 
 /* container two end */
 
@@ -151,11 +151,6 @@
     margin-bottom: 100px;
 }
 
-
-
-
-
-
 /* container four end */
 
 /* container five start */
@@ -191,22 +186,22 @@
     background-image: url("/Flower_Asset/Rectangle\ 9.png");
     height: 449px;
     width: 1440px;
-    
+    border: 5px dashed silver;
+
 
 }
-.fnt-styl{
+
+.fnt-styl {
     padding: 100px;
 }
 
 
 .btn-styls {
-    /* border-radius: 8px; */
-    /* color: white; */
     padding: 20px 43px 20px 43px;
     border: none;
 
-}
 
+}
 
 
 /* container six end */
@@ -220,7 +215,7 @@
     height: 449px;
     width: 1440px;
     padding: 130px;
-   
+
 }
 
 .fnt-clr {
